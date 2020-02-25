@@ -3,6 +3,7 @@
 
 ## Prospecting
 You can download the prospecting mini-game handler here:
+https://github.com/glitchdetector/fivem-prospecting
 
 ## Features
 * Randomly generated treasure within a pre-defined area
